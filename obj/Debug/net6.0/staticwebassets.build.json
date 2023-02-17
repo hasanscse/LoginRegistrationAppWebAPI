@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hXc+uJuX21Umctk9sYCvmf+De5RGYLF888LF90N5SiI=",
+  "Source": "LoginRegistrationAppWebAPI",
+  "BasePath": "_content/LoginRegistrationAppWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
